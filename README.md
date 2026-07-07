@@ -151,7 +151,3 @@ Caso encontre algum problema ou tenha alguma sugestão de melhoria, fique à von
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
-
----
-
-> **Este projeto representa minha jornada de aprendizado em Engenharia de Software. Cada commit marca um passo nessa evolução. 🚀**
