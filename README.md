@@ -1,4 +1,4 @@
-# SISTEMA DE VENDAS 🛍️ 
+# PROJETO - SISTEMA DE VENDAS 
 
 > Projeto pessoal desenvolvido p/ aprofundar meus conhecimentos em programação através da construção de uma plataforma de gestão para vendas.
 
