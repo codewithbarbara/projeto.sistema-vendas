@@ -1,6 +1,6 @@
 # SISTEMA DE VENDAS 🛍️ 
 
-> Um projeto pessoal desenvolvido para aprofundar meus conhecimentos em programação através da construção de uma plataforma de gestão para vendas.
+> Projeto pessoal desenvolvido p/ aprofundar meus conhecimentos em programação através da construção de uma plataforma de gestão para vendas.
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -11,7 +11,7 @@
 
 ---
 
-## 📖 Sobre
+## Sobre
 
 Esse é um projeto de estudos, com uma proposta diferente, que é construir um software que simule entraves encontrados no desenvolvimento de softwares utilizados por empresas no mundo real.
 
@@ -19,7 +19,7 @@ Ao invés de criar diversos projetos pequenos e isolados, decidi concentrar meus
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 Este projeto tem como objetivo praticar e consolidar conhecimentos em:
 
@@ -36,21 +36,17 @@ Este projeto tem como objetivo praticar e consolidar conhecimentos em:
 - Documentação técnica
 - Boas práticas de Engenharia de Software
 
-Mais do que desenvolver um sistema de gestão para varejo, a ideia é entender como aplicações desse porte são planejadas, estruturadas e evoluem ao longo do tempo.
-
 ---
 
-## 🚧 Status do Projeto
+## Status do Projeto
 
 > **Em desenvolvimento ativo**
 
 O projeto será desenvolvido de forma incremental.
 
-Cada funcionalidade representa uma oportunidade para estudar um novo conceito e aplicá-lo em um cenário próximo ao encontrado no mercado.
-
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 ### Fundação
 
@@ -103,7 +99,7 @@ Cada funcionalidade representa uma oportunidade para estudar um novo conceito e 
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Backend
 
@@ -130,7 +126,7 @@ Cada funcionalidade representa uma oportunidade para estudar um novo conceito e 
 
 ---
 
-## 📚 Aprendizados
+## Aprendizados
 
 Ao longo do desenvolvimento, pretendo documentar:
 
@@ -144,15 +140,15 @@ A ideia é que este repositório registre não apenas a evolução do sistema, m
 
 ---
 
-## 🤝 Contribuições
+## Contribuições
 
-Embora este seja um projeto de estudos, sugestões, ideias e feedbacks são sempre bem-vindos.
+Embora este seja um projeto de estudos, sugestões, ideias e feedbacks são sempre bem-vindos!
 
-Caso encontre algum problema ou tenha alguma sugestão de melhoria, fique à vontade para abrir uma *Issue*.
+Caso encontre algum problema ou tenha alguma sugestão de melhoria, fique à vontade para abrir uma *Issue* ou entrar em contato comigo por qualquer rede social linkada no meu perfil.
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto está licenciado sob a licença MIT.
 
